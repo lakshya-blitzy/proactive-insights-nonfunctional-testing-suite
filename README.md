@@ -1,1 +1,1 @@
-# proactive-insights-nonfunctional-testing-suite
+# Non-functional suite\n\nRun API checks with pytest. Run Locust using `locust -f locustfile.py --host http://127.0.0.1:8000`. Use only an authorized test environment and start with low load.\n

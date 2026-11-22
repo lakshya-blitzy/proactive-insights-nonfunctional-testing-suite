@@ -1,0 +1,1 @@
+pytest>=8,<9\nrequests>=2.31,<3\nlocust>=2.24,<3\n
